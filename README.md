@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **c++ and dsa**
 
 - 📫 How to reach me **mahajan27anuj@gmail.com**
 
